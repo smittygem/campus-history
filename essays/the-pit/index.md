@@ -1,6 +1,6 @@
 ---
 title: The Pit
-author: Gemma Smith
+author: Gemma Gabriella Smith
 category: Athletics
 header-image: the-pit.png
 header-caption: Exterior photograph of The Pit at UNM
