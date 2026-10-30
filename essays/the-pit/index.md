@@ -2,7 +2,7 @@
 title: The Pit
 author: Gemma Smith
 category: Athletics
-header-image: Screenshot 2026-10-29 at 2.52.54 PM.png
+header-image: Screenshot 2026-10-29 at 2.52.54 PM
 header-caption: Exterior photograph of The Pit at UNM
 
 
