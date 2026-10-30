@@ -5,11 +5,11 @@ category: Athletics
 header-image: Screenshot 2026-10-29 at 2.52.54 PM.png
 header-caption: Exterior photograph of The Pit at UNM
 
-# Fill these in later, once your research is under way.
-card-description: Replace this with two sentences that summarize the story your essay tells and why it matters.
-start:                                   # the year your story begins, shown on the map
 
-# Leave this line as it is.
+card-description: A look at the history of The Pit and its importance to UNM athletics.
+start: 1966                            
+
+
 layout: essay
 ---
 
