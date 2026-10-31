@@ -1,15 +1,16 @@
 ---
+# Change these five lines as soon as you copy this starter.
 title: The Pit
 author: Gemma Gabriella Smith
-category: Athletics
-header-image: the-pit.png
+category: Athletics                 # change to a category from the student guide
+header-image: the-pit.png   # the filename of your own image
 header-caption: Exterior photograph of The Pit at UNM
 
+# Fill these in later, once your research is under way.
+card-description: The history of The Pit and its importance to the University of New Mexico.
+start:        1966                           # the year your story begins, shown on the map
 
-card-description: A look at the history of The Pit and its importance to UNM athletics.
-start: 1966                            
-
-
+# Leave this line as it is.
 layout: essay
 ---
 
