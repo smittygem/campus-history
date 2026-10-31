@@ -47,7 +47,6 @@ The Pit was expanded in 1975 to accommodate more spectators. In 1983, it hosted 
 North Carolina State defeated the University of Houston in the championship game. Lorenzo Charles scored the winning basket in the final seconds. The game became an important moment in college basketball history.
 
 Hosting the tournament brought national attention to Albuquerque and UNM.
-%}
 
 ## Modernization and Lasting Legacy
 
