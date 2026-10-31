@@ -1,22 +1,20 @@
 ---
-# Change these five lines as soon as you copy this starter.
+
 title: The Pit
 author: Gemma Gabriella Smith
-category: Athletics                 # change to a category from the student guide
-header-image: the-pit.png   # the filename of your own image
+category: Athletics                 
+header-image: the-pit.png   
 header-caption: Exterior photograph of The Pit at UNM
 
-# Fill these in later, once your research is under way.
-card-description: The history of The Pit and its importance to the University of New Mexico.
-start:        1966                           # the year your story begins, shown on the map
 
-# Leave this line as it is.
+card-description: The history of The Pit and its importance to the University of New Mexico.
+start:        1966                          
+
+
 layout: essay
 ---
 
-This first paragraph should give readers a quick way into your topic. Start with a scene, a question, a surprising fact, or a problem your essay will explain. You do not need to summarize everything here. Help the reader understand why this campus place, person, organization, object, or event deserves attention.
-
-Keep the above lead paragraph first. Do not put an image, a heading, or any other component above it.
+The Pit is a basketball arena at the University of New Mexico in Albuquerque. It opened in 1966 and is known for its underground design. The arena has hosted major basketball events, including the 1983 NCAA Final Four. Today, it remains an important part of UNM's history.
 
 ## Historical Background and Construction
 
