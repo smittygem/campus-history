@@ -27,9 +27,6 @@ The arena officially opened on December 1, 1966. Construction cost approximately
      next to index.md. -->
 
 
-Every image needs a caption, including this one. A caption should explain what the reader should notice and where the image came from. Captions accept Markdown, so use `[source](https://example.com/)` to link to a digital collection whenever the image has an online home.
-
-
 ## Architectural Innovation and Cultural Significance
 
 The Pit has a unique underground design. Its basketball court is approximately 37 feet below ground level. Architect Joe Boehning designed the building.
