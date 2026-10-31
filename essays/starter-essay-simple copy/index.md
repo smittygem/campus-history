@@ -3,7 +3,7 @@
 title: The Pit
 author: Gemma Gabriella Smith
 category: Athletics                 # change to a category from the student guide
-header-image: the-pngpit.   # the filename of your own image
+header-image: the-pit.png   # the filename of your own image
 header-caption: Exterior photograph of The Pit at UNM
 
 # Fill these in later, once your research is under way.
