@@ -26,12 +26,6 @@ The arena officially opened on December 1, 1966. Construction cost approximately
      image-path is just the filename: upload your images into this essay's folder,
      next to index.md. -->
 
-{% include images/figure.html
-  class="img-center"
-  width="100%"
-  caption="Replace this caption. Say why the image matters, not just what it shows, then cite where you found it: [Center for Southwest Research](https://econtent.unm.edu/), collection and box number."
-  image-path="sample-archive-photo.jpg"
-%}
 
 Every image needs a caption, including this one. A caption should explain what the reader should notice and where the image came from. Captions accept Markdown, so use `[source](https://example.com/)` to link to a digital collection whenever the image has an online home.
 
@@ -46,12 +40,6 @@ The seating sections are steep and close to the court. This helps create a loud 
      is over 1200px tall and swallows the screen, so center it and leave it near 55%.
      Keep it centered, not floated. -->
 
-{% include images/figure.html
-  class="img-center"
-  width="55%"
-  caption="Replace this caption. Tell readers what to notice in the document and why it changes how they should understand your topic. Cite the collection, box, and folder."
-  image-path="sample-primary-source.jpg"
-%}
 
 Explain what the document says, what it does not say, and how it fits the story. A source you actually read and explain is worth more than three you only mention.
 
